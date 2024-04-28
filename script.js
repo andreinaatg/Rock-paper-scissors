@@ -45,6 +45,6 @@ function playRockPaperScissors() {
     if (playAgain) {
         playRockPaperScissors();
     } else {
-        alert("Ok, thanks for playing! 👍");
+        alert("Ok, thanks for playing!");
     }
 }
